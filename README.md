@@ -4,8 +4,6 @@ Código desenvolvido na cadeira de Infraestrutura de Software do 3º período do
 
 O objetivo da atividade era passar nos testes, cumprir com os requisitos descritos no documento CPUScheduling.pdf enviado pelo professor e enviar até o deadline.
 
-O código presente neste repositório passou com nota máxima, porém sei que não está otimizado, mas está funcional ;)
-
 Outros requisitos/informações dadas pelo professor que não foram descritos no documento:
 ```
 A ordem de impressão das tarefas nas listas LOST DEADLINES, COMPLETE EXECUTION e KILLED é a mesma do arquivo de entrada.
